@@ -4,7 +4,17 @@
 
 <div align="center">
 
-![](https://img.shields.io/github/last-commit/AnFoxyn/Hyprland-Dotfiles?&style=for-the-badge&color=89B4FA&logo=git&logoColor=CDD6F4&labelColor=1E1E2E)
-![](https://img.shields.io/github/repo-size/AnFoxyn/Hyprland-Dotfiles?color=74C7EC&label=SIZE&logo=protondrive&style=for-the-badge&logoColor=CDD6F4&labelColor=1E1E2E)
+![](https://img.shields.io/github/last-commit/AnFoxyn/Wallpapers?&style=for-the-badge&color=74C7EC&logo=git&logoColor=CDD6F4&labelColor=1E1E2E)
+![](https://img.shields.io/github/repo-size/AnFoxyn/Wallpapers?color=89DCEB&label=SIZE&logo=protondrive&style=for-the-badge&logoColor=CDD6F4&labelColor=1E1E2E)
 
 </div>
+
+<div align="center">
+    <h2>▪ Showcase ▪</h2>
+</div>
+
+|                                      **Arch**                                      |                                **Abstract Shapes**                                |
+| :--------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+|      <img width="1920" height="1080" alt="image" src="/wallpapers/arch.png">       | <img width="1920" height="1080" alt="image" src="wallpapers/abstract-shapes.jpg"> |
+|                               **Fox (Among Trees)**                                |                                 **Galaxy Waves**                                  |
+| <img width="1920" height="1080" alt="image" src="/wallpapers/fox-among-trees.jpg"> |  <img width="1920" height="1080" alt="image"  src="wallpapers/galaxy-waves.jpg">  |
