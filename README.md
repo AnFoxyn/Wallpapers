@@ -1,4 +1,5 @@
-<div align="center">
+\*\*\*\*<div align="center">
+
   <h1 >◥ AnFoxyn's Wallpaper Collection ◤</h1>
 </div>
 
@@ -13,8 +14,12 @@
     <h2>▪ Showcase ▪</h2>
 </div>
 
-|                                      **Arch**                                      |                                **Abstract Shapes**                                |
-| :--------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-|      <img width="1920" height="1080" alt="image" src="/wallpapers/arch.png">       | <img width="1920" height="1080" alt="image" src="wallpapers/abstract-shapes.jpg"> |
-|                               **Fox (Among Trees)**                                |                                 **Galaxy Waves**                                  |
-| <img width="1920" height="1080" alt="image" src="/wallpapers/fox-among-trees.jpg"> |  <img width="1920" height="1080" alt="image"  src="wallpapers/galaxy-waves.jpg">  |
+|                                      **Arch**                                      |                                    **Firewatch**                                    |
+| :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+|      <img width="1920" height="1080" alt="image" src="/wallpapers/arch.jpg">       |     <img width="1920" height="1080" alt="image" src="wallpapers/firewatch.jpg">     |
+|                               **Fox (Among Trees)**                                |                                  **Galaxy Waves**                                   |
+| <img width="1920" height="1080" alt="image" src="/wallpapers/fox-among-trees.jpg"> |   <img width="1920" height="1080" alt="image"  src="wallpapers/galaxy-waves.jpg">   |
+|                                   **Glitch Art**                                   |                                   **Liquid Art**                                    |
+|   <img width="1920" height="1080" alt="image" src="/wallpapers/glitch-art.jpg">    |    <img width="1920" height="1080" alt="image"  src="wallpapers/liquid-art.jpg">    |
+|                                **Morning Sunrise**                                 |                                **Reindeer Sunrise**                                 |
+| <img width="1920" height="1080" alt="image" src="/wallpapers/morning-sunrise.jpg"> | <img width="1920" height="1080" alt="image"  src="wallpapers/reindeer-sunrise.jpg"> |
