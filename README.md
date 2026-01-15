@@ -1,5 +1,4 @@
-\*\*\*\*<div align="center">
-
+<div align="center">
   <h1 >◥ AnFoxyn's Wallpaper Collection ◤</h1>
 </div>
 
